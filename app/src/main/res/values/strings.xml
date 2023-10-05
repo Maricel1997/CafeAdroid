@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CAFE</string>
+    <string name="inicio_titulo">CAFE MARICEL</string>
+    <string name="inicio_descrip">Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo.
+        Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.
+</string>
+        <string name="inicio_cal1">Gran Espresso</string>
+        <string name="inicio_cal2">Planalto</string>
+        <string name="inicio_cal3">Danche</string>
+
+    <string name="btn_inicio">suscribir</string>
+
+</resources>
